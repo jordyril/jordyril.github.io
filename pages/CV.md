@@ -5,10 +5,6 @@ permalink: /cv/
 ---
 
 <style>
-* {
-  box-sizing: border-box;
-}
-
 .row {
   display: flex;
   /* justify-content: space-between; */
