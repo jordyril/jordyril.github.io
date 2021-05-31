@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-<!-- Under construction -->
+For any questions or inquiries, please use the contact form below and I will reply shortly.
 
 <!-- modify this form HTML and place wherever you want your form -->
 <form
