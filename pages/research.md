@@ -4,17 +4,23 @@ title: Research
 permalink: /research/
 ---
 
-# Working papers
+# Published work
 
-1. **Ask BERT: How Regulatory Disclosure of Transition and Physical Climate Risks affects the CDS Term Structure**
-   <br/>
-   With Julian Kölbel, Markus Leippold and Qian Wang (Available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3616324))
+**Ask BERT: How Regulatory Disclosure of Transition and Physical Climate Risks affects the CDS Term Structure**
+<br/>
+With Julian Kölbel, Markus Leippold and Qian Wang (2022, Journal of Financial econometrics [[download](https://academic.oup.com/jfec/advance-article-abstract/doi/10.1093/jjfinec/nbac027/6650201)])
 
-    We use BERT, an AI-based algorithm for language understanding, to decipher regulatory climate-risk disclosures and measure their impact on the credit default swap (CDS) market. Risk disclosures can either increase or decrease credit spreads, depending on whether disclosure reveals new risks or sharpens the signal and decreases the uncertainty. Training BERT to differentiate between transition and physical climate risks, we find that disclosing transition risks increases CDS spreads, especially after the Paris Climate Agreement of 2015, while disclosing physical climate risks leads to a decrease in CDS spreads. These impacts are statistically and economically highly significant.
-    <br/>
+We use BERT, an AI-based algorithm for language understanding, to quantify regulatory climate risk disclosures and analyze their impact on the term structure in the credit default swap (CDS) market. Risk disclosures can either increase or decrease CDS spreads, depending on whether the disclosure reveals new risks or reduces uncertainty. Training BERT to differentiate between transition and physical climate risks, we find that disclosing transition risks increases CDS spreads after the Paris Climate Agreement of 2015, while disclosing physical risks decreases the spreads. In addition, we also find that the election of Trump had a negative impact on CDS spreads for firms exposed to transition risk. These impacts are consistent with theoretical predictions and economically and statistically significant.
 
-    Additional material:
-    * The data used in this paper can be found [here](https://osf.io/pk2u9/) 
+Additional material:
+* The data used in this paper can be found [here](https://osf.io/pk2u9/) 
+
+<!-- # Working papers -->
+
+# Work in Progress
+**Materiality of Environmental Risk Factors: The EU Taxonomy on Sustainable Investing**
+<br/>
+With Andreas Hoepner, Johannes Klassmann and Markus Leippold
 
 <!-- 2.  -->
 

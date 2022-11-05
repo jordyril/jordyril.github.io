@@ -25,7 +25,7 @@ table, th, tr, td {
 }
 </style>
 
-<p><a href="/files/CV_JordyRillaerts31052021.pdf">PDF version</a>, last updated: 31/05/2021</p>
+<p><a href="/files/CV_JordyRillaerts05112022.pdf">PDF version</a>, last updated: 05/11/2022</p>
 
 
 ## Education
@@ -71,8 +71,9 @@ table, th, tr, td {
 
 ## Miscellanea
 
-# Languages
-Dutch, English & French
-
 # Software & Tools
-Python, LaTeX, C++, MS Office & SAS
+Python, LaTeX, MS Office (Advanced)
+C++, SAS, HTML, Markdown (Basic)
+# Languages
+Dutch (Native)
+English & French (Professional)

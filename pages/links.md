@@ -10,5 +10,4 @@ permalink: /links/
 * LaTeX: [MiKTeX](https://miktex.org/download)
 
 ### Data
-
 * Stock returns & factors: [Prof. K. French's data library](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)
