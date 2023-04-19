@@ -1,0 +1,49 @@
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited,
+a:hover {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active,
+a:hover {
+  color: green;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+img.rounded-corners {
+  border-radius: 50%;
+}
+
+table,
+th,
+tr,
+td {
+  border: 0px !important;
+  border-collapse: collapse !important;
+  border: none !important;
+  outline: none !important;
+  background-color: rgba(0, 0, 0, 0) !important;
+  vertical-align: top;
+}
+.row {
+  display: flex;
+}
+.column {
+  flex: 100%;
+}
+
+table.cv {
+  width: 100%;
+}
+
+td.period {
+  text-align: right;
+}
