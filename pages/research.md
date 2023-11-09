@@ -20,12 +20,12 @@ Additional material:
 <!-- # Working papers -->
 
 # Working papers
-<b>Beyond Climate: `EU taxonomy' criteria, materiality, and CDS term structure</b>
+<b>Beyond Climate: The Impact of Biodiversity, Water, and Pollution on the CDS Term Structure</b>
 <br/>
 With Andreas Hoepner, Johannes Klassmann and Markus Leippold [[download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4351633)]
 
 <div style="text-align: justify;" >
-This paper examines the impact of the EU Taxonomy's non-climate environmental criteria on the corporate credit risk term structure. We focus on infrastructure firm-level credit risk transmitted through CDS with differential maturities (e.g., ten-year minus one-year) in relation to biodiversity, water risks, and pollution prevention to understand the incentives created by these criteria for green infrastructure investments. Where these criteria describe risks of the environment for the firm (i.e., conventional materiality), we find that firms managing any of these three risks best have up to 93bps better relative long-term refinancing conditions than the worst ones. With respect to the second part of double materiality (i.e., the impact of the firm on the environment), we find statistically significant results only for pollution prevention of up to 70bps. Unexpected political right-wing shocks, such as the Trump election, had reversing effects on biodiversity and pollution prevention but not on water risks. These reversals were evident on the short end of the CDS curve but modest on the long end. Overall, our results suggest that investors appear to credit better management of the environmental criteria beyond climate with improved long-term financing conditions on infrastructure investments. 
+We investigate the impact of three non-climate environmental criteria: biodiversity, water, and pollution prevention, on infrastructure firms' credit risk term structure from the perspective of double materiality. Our findings show that firms that effectively manage these three environmental risks to which they are materially exposed have up to 93bps better long-term refinancing conditions compared to the worst-performing firms. While the results are less significant for the firm's material impact on the environment, investors still reward the management of these criteria beyond climate with improved long-term financing conditions for infrastructure investments. Overall, we find that financial markets respond positively to the prospect of more stringent regulations related to these criteria, which are currently used by the EU Taxonomy to assess the sustainability of investments.
 </div>
 
 
