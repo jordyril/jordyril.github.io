@@ -34,3 +34,4 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 # gem "rubyeventmachine"
 # gem 'jekyll-academicons-svg'
+gem "webrick", "~> 1.7"

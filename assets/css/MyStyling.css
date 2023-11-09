@@ -47,3 +47,7 @@ table.cv {
 td.period {
   text-align: right;
 }
+
+p.abstract {
+  text-align: justify;
+}

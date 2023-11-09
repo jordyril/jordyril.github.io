@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-<p>Download <a href="/files/CV_JordyRillaerts032023.pdf" class="pdf" download>PDF</a> version, last updated: March 2023</p>
+<p>Download <a href="/files/CV_JordyRillaerts032023.pdf" class="pdf">PDF</a> version, last updated: March 2023</p>
 
 
 # Education

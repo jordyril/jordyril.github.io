@@ -20,6 +20,8 @@ For any questions or inquiries, please use the contact form below and I will rep
 <label> <input type="text" name="_subject" placeholder="Subject" size=30 > </label>
 
 <br>
+<br>
+
 
 <label> <textarea name="message" cols=50 rows=10 placeholder="Message"></textarea> </label>
 
