@@ -26,7 +26,7 @@ With Andreas Hoepner, Johannes Klausmann and Markus Leippold [<a href="https://p
 <p class="abstract">
 We investigate the impact of three non-climate environmental criteria: biodiversity, water, and pollution prevention, on infrastructure firms' credit risk term structure from the perspective of double materiality. Our findings show that firms that effectively manage these three environmental risks to which they are materially exposed have up to 93bps better long-term refinancing conditions compared to the worst-performing firms. While the results are less significant for the firm's material impact on the environment, investors still reward the management of these criteria beyond climate with improved long-term financing conditions for infrastructure investments. Overall, we find that financial markets respond positively to the prospect of more stringent regulations related to these criteria, which are currently used by the EU Taxonomy to assess the sustainability of investments.
 </p>
-With Andreas Hoepner, Johannes Klaussmann and Markus Leippold [[download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4351633)]
+With Andreas Hoepner, Johannes Klausmann and Markus Leippold [[download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4351633)]
 
 
 <!-- # Work in progress -->
