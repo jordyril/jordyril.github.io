@@ -14,6 +14,7 @@ permalink: /links/
 
 <h3> (Free) Data </h3>
 <ul>
-    <li>IDE: <a href="https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html" class="external">Prof. K. French's data library</a></li>
+    <li>Factor returns: <a href="https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html" class="external">Prof. K. French's data library</a></li>
+    <li>Research data: <a href="https://osf.io/" class="external"> OSF </a> </li>
 </ul>
 
