@@ -9,17 +9,21 @@ permalink: /cv/
 # Professional experience
 <table class="cv">
     <tr>
-    <td><b>Deloitte AG</b> <br> <i> Senior Consultant<br> </i> Risk advisory - Financial risk management<br> Project work: 
+    <td><b>Deloitte AG</b> <br> <i> Senior Consultant<br> </i> Financial Risk Management<br> Project work:
         <ul>
+
+            <li>Economic Capital</li>
+            <li>Liquidity risk</li>
             <li>Credit risk</li>
             <li>Stress testing</li>
             <li>Low-default portfolio</li>
+            <li>Data Modelling</li>
         </ul>
-        </td>       
+        </td>
         <td class="period">2023 - present</td>
     </tr>
     <tr>
-        <td><b>University of Zurich</b> <br> <i> Teaching & Research assistant <br> </i> Chair of Financial Engineering, Prof. Markus Leippold<br> Courses: 
+        <td><b>University of Zurich</b> <br> <i> Teaching & Research assistant <br> </i> Chair of Financial Engineering, Prof. Markus Leippold<br> Courses:
         <ul>
             <li>Asset Pricing (PhD)</li>
             <li>Financial Engineering (MA)</li>
