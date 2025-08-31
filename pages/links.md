@@ -10,6 +10,7 @@ permalink: /links/
     <li> Python: <a href="https://www.python.org/downloads/" class="external"> stand-alone </a> , <a href="https://www.anaconda.com/products/individual#Downloads" class="external"> Anaconda </a></li>
     <li>IDE: <a href="https://code.visualstudio.com/" class="external">Visual Studio Code</a></li>
     <li>LaTeX: <a href="https://miktex.org/download" class="external">MiKTeX</a> </li>
+    <li>Editor: <a href="https://notepad-plus-plus.org/" class="external"> Notepad++</a> </li>
 </ul>
 
 <h3> (Free) Data </h3>
